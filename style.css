@@ -1,0 +1,9 @@
+canvas {
+    border: 1px solid black;
+    background: white;
+    cursor: crosshair;
+  }
+  button {
+    margin-top: 10px;
+    padding: 8px 12px;
+  }
